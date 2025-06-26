@@ -23,14 +23,14 @@ repositories I created while learning specific technology.
 
 #### Exploring the world of Kotlin
 
-I'm absolutely in love with Kotlin - I think about it all the time, even in my sleep! This repository showcases
+I'm absolutely in love with Kotlin: I think about it all the time, even in my sleep! This repository showcases
 everything I built on my journey through
-Kotlin. [View repository](https://github.com/sudarshanmhasrup1/exploring-the-world-of-kotlin)
+Kotlin. [View repository](https://github.com/heyysudarshan/exploring-the-world-of-kotlin)
 
 #### Exploring the world of Web
 
-The web is everywhere — even in my thoughts! This repository holds everything I built while learning web development.
-[View repository](https://github.com/sudarshanmhasrup1/exploring-the-world-of-web)
+The web is everywhere: even in my thoughts! This repository holds everything I built while learning web development.
+[View repository](https://github.com/heyysudarshan/exploring-the-world-of-web)
 
 ### QnA
 
