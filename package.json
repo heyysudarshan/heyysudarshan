@@ -10,7 +10,7 @@
     "dependencies": {
         "next": "latest",
         "react": "latest",
-        "react-dom": "lastest"
+        "react-dom": "latest"
     },
     "devDependencies": {
         "autoprefixer": "latest",
