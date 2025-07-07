@@ -1,18 +1,23 @@
 ### Introduction 👋
 
-Hi! Thank you so much for checking out my GitHub profile. Let me introduce myself. I'm `Sudarshan Mhasrup`, and I like
-to solve real-world and business problems. There are many ways to do it, but I choose the way of software development.
-The reason? Well, I was always curious about how computers work and how I could build my own programs that run on Web,
-Mobile, and Desktop. So, I decided to learn programming, which turned out to be the best thing I do every time. I like
-to build stuff, not just code.
+Hi! Thank you so much for checking out my GitHub profile. Let me introduce myself. I'm `Sudarshan Mhasrup`, a software
+developer who loves to code and solve real-world and business problems. There are many ways to do that—but I chose the
+path of software development and programming.
 
-I started learning to build mobile apps using a no-code tool called `Sketchware`. Later, I learned `Java` and began
-building fun projects using `Java` and `XML`. During the second year of my college, I found myself enjoying `Kotlin` and
-its ecosystem. So, I decided to go for it because I fell in love with `Kotlin`. Nowadays, I'm totally into `Kotlin`. Its
-multiplatform nature has enabled me to develop apps that run on mobile phones, desktop PCs, the web, and more.
+Why?
+Well, since childhood, I’ve always been curious about how computers work and how I could build my own programs that run
+on the web, mobile, and desktop. So, I decided to learn programming, and it turned out to be the best decision I’ve ever
+made. I love building things.
+
+I began my journey by developing mobile apps using a no-code tool called `Sketchware`. Later I explored the `Java`
+programming language and began creating fun projects using `Java` and `XML`. In my second year of college, I came across
+`Kotlin` and was immediately drawn to its simplicity and powerful features. Since then, I’ve fully embraced the `Kotlin`
+ecosystem. Today I’m totally into `Kotlin`. Its multiplatform nature allows me to develop apps that run seamlessly on
+mobile phones, desktop PCs, the web, and more.
 
 I craft user interfaces using `Jetpack Compose` for `Android` and `Compose Multiplatform` for `Kotlin Multiplatform`
-projects. I love the ecosystem, which helps me deliver solutions faster and more efficiently.
+projects. I truly enjoy working in the Kotlin ecosystem: it helps me build and deliver solutions faster and more
+efficiently.
 
 ### Active learning
 
