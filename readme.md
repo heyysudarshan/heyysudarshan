@@ -39,10 +39,8 @@ repositories I created while learning specific technology.
   love with Kotlin: I think about it all the time, even in my sleep! This repository showcases everything I built on my
   journey through Kotlin.
 
-#### Exploring the world of Web
-
-The web is everywhere: even in my thoughts! This repository holds everything I built while learning web development.
-[View repository](https://github.com/heyysudarshan/exploring-the-world-of-web)
+- [Exploring the world of Web](https://github.com/heyysudarshan/exploring-the-world-of-web) - The web is everywhere:
+  even in my thoughts! This repository holds everything I built while learning web development.
 
 ### QnA
 
