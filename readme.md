@@ -19,6 +19,11 @@ I craft user interfaces using `Jetpack Compose` for `Android` and `Compose Multi
 projects. I truly enjoy working in the Kotlin ecosystem: it helps me build and deliver solutions faster and more
 efficiently.
 
+### Featured projects
+
+- `Julie`: A component library and design system developed to make your app look & feel beautiful and consistent across
+  all platforms. [View repository](https://github.com/heyysudarshan/julie)
+
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
