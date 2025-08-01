@@ -21,8 +21,11 @@ efficiently.
 
 ### Featured projects
 
-- `Julie`: A component library and design system developed to make your app look & feel beautiful and consistent across
-  all platforms. [View repository](https://github.com/heyysudarshan/julie)
+- `Julie`: Julie is A component library and design system developed to make your app look & feel beautiful and
+  consistent across all platforms. It empowers developers to design beautiful, consistent, and accessible user
+  interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and `Jetpack Compose`, but
+  also ships a limited supported version for `React JS`.
+  [View repository](https://github.com/heyysudarshan/julie)
 
 ### Active learning
 
