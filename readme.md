@@ -21,8 +21,10 @@ efficiently.
 
 ### Featured projects
 
-- [Julie](https://github.com/heyysudarshan/julie) - Julie is A component library and design system developed to make your
-  app look and feel beautiful and consistent across all platforms. It empowers developers to design beautiful, consistent,
+- [Julie](https://github.com/heyysudarshan/julie) - Julie is A component library and design system developed to make
+  your
+  app look and feel beautiful and consistent across all platforms. It empowers developers to design beautiful,
+  consistent,
   and accessible user interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and
   `Jetpack Compose`, but also ships a limited supported version for `React JS`.
 
@@ -33,11 +35,9 @@ the most effective way to learn any new technology. I've created and dedicated s
 maintain the source code and projects that I created while learning that technology. Here is the list of all
 repositories I created while learning specific technology.
 
-#### Exploring the world of Kotlin
-
-I'm absolutely in love with Kotlin: I think about it all the time, even in my sleep! This repository showcases
-everything I built on my journey through
-Kotlin. [View repository](https://github.com/heyysudarshan/exploring-the-world-of-kotlin)
+- [Exploring the world of Kotlin](https://github.com/heyysudarshan/exploring-the-world-of-kotlin) - I'm absolutely in
+  love with Kotlin: I think about it all the time, even in my sleep! This repository showcases everything I built on my
+  journey through Kotlin.
 
 #### Exploring the world of Web
 
