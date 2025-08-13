@@ -1,4 +1,4 @@
-### Introduction
+### Introduction 👋
 
 Hi! Welcome to my GitHub profile. I'm `Sudarshan Mhasrup`, a software engineer and developer from India passionate about
 cross-platform and native mobile app development using Kotlin. Since childhood, I’ve always been curious about how
@@ -11,7 +11,7 @@ language when I was exploring Android development more in depth. Today I’m tot
 nature allows me to develop apps that run seamlessly on mobile phones, desktop PCs, the web, and more.
 
 I've dedicated myself to developing software, especially mobile apps and cross-platform apps, using
-`Kotlin Multiplatform` and `Compose Multiplatform` for `Android`, `iOS`, `desktop`, and `web1 with one single codebase.
+`Kotlin Multiplatform` and `Compose Multiplatform` for `Android`, `iOS`, `desktop`, and `web` with one single codebase.
 Having a deep understanding of the `Gradle` build system makes my work easier, as I can handle multi-module projects
 easily and tweak settings to improve build performance.
 
