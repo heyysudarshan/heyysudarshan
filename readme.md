@@ -26,7 +26,7 @@ the most effective way to learn any new technology. I've created and dedicated s
 maintain the source code and projects that I created while learning that technology. Here is the list of all
 repositories I created while learning specific technology.
 
-- [Exploring the world of Kotlin—](https://github.com/heyysudarshan/exploring-the-world-of-kotlin): I'm absolutely in
+- [Exploring the world of Kotlin](https://github.com/heyysudarshan/exploring-the-world-of-kotlin): I'm absolutely in
   love with Kotlin: I think about it all the time, even in my sleep! This repository showcases everything I built on my
   journey through Kotlin.
 
