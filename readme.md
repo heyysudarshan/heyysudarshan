@@ -21,7 +21,8 @@ Having these backend skills makes me a full-stack software developer who can han
 
 ### Technology Tech
 
-These are the technologies that I use the most for mobile application development.
+Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
+Here’s the list of technologies I use in my daily developer life.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
