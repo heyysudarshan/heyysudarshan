@@ -42,6 +42,12 @@ Here’s the list of technologies I use in my daily developer life.
   <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
+  <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+</picture>
+
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
