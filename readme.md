@@ -35,6 +35,12 @@ These are the technologies that I use the most for mobile application developmen
   <img alt="Kotlin Multiplatform Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+  <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+</picture>
+
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
