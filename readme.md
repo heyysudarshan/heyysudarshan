@@ -19,6 +19,14 @@ In addition to my skills in mobile app development, I am also involved in backen
 developing backend services using `Spring Boot` and JetBrains's `Ktor` along with `PostgreSQL` as a database solution.
 Having these backend skills makes me a full-stack software developer who can handle both parts of any software.
 
+### Technology Tech
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
+  <img alt="My logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+</picture>
+
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
