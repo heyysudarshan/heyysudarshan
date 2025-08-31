@@ -21,10 +21,18 @@ Having these backend skills makes me a full-stack software developer who can han
 
 ### Technology Tech
 
+These are the technologies that I use the most for mobile application development.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
-  <img alt="My logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+  <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset=https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-light.svg" />
+  <img alt="Kotlin Multiplatform Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
 </picture>
 
 ### Active learning
