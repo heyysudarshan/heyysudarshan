@@ -24,8 +24,6 @@ Having these backend skills makes me a full-stack software developer who can han
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
 Here’s the list of technologies I use in my daily developer life.
 
-#### Mobile App Development
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
@@ -51,9 +49,9 @@ Here’s the list of technologies I use in my daily developer life.
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
-    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-light.svg" />
+    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
 </picture>
 
 ### Featured projects
