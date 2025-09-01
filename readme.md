@@ -69,6 +69,10 @@ Here’s the list of technologies I use in my daily developer life.
   and accessible user interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and
   `Jetpack Compose`, but also ships a limited supported version for `React JS`.
 
+### GitHub stats
+
+![heyysudarshan's Stats](https://github-readme-stats.vercel.app/api?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
