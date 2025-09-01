@@ -54,6 +54,12 @@ Here’s the list of technologies I use in my daily developer life.
     <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_light.svg" />
+    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
+</picture>
+
 ### Featured projects
 
 - [Julie](https://github.com/heyysudarshan/julie) - Julie is A component library and design system developed to make
