@@ -72,6 +72,7 @@ Here’s the list of technologies I use in my daily developer life.
 ### GitHub stats
 
 ![heyysudarshan's Stats](https://github-readme-stats.vercel.app/api?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![heyysudarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyysudarshan&theme=tokyonight&hide_border=true)
 
 ### Active learning
 
