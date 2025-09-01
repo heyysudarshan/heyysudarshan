@@ -27,37 +27,37 @@ Here’s the list of technologies I use in my daily developer life.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
-    <img alt="Kotlin Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+    <img alt="Kotlin Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-light.svg" />
-    <img alt="Kotlin Multiplatform Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
+    <img alt="Kotlin Multiplatform Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-light.svg" />
-    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+    <img alt="Jetpack Compose Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
-    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+    <img alt="Jetpack Compose Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-light.svg" />
-    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
+    <img alt="Jetpack Compose Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_light.svg" />
-    <img alt="Jetpack Compose Logo" height="120" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
+    <img alt="Jetpack Compose Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
 </picture>
 
 ### Featured projects
@@ -68,6 +68,12 @@ Here’s the list of technologies I use in my daily developer life.
   consistent,
   and accessible user interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and
   `Jetpack Compose`, but also ships a limited supported version for `React JS`.
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_light.svg" />
+    <img alt="Jetpack Compose Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" />
+</picture>
 
 ### GitHub stats
 
