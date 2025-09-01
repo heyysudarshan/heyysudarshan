@@ -62,12 +62,10 @@ Here’s the list of technologies I use in my daily developer life.
 
 ### Featured projects
 
-- [Julie](https://github.com/heyysudarshan/julie) - Julie is A component library and design system developed to make
-  your
-  app look and feel beautiful and consistent across all platforms. It empowers developers to design beautiful,
-  consistent,
-  and accessible user interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and
-  `Jetpack Compose`, but also ships a limited supported version for `React JS`.
+| Project | Description | Preview |
+|---------|-------------|---------|
+| [Julie](https://github.com/heyysudarshan/julie) | Julie is a component library and design system developed to make your app look and feel beautiful and consistent across all platforms. It empowers developers to design beautiful, consistent, and accessible user interfaces across various platforms. It's primarily developed for `Compose Multiplatform` and `Jetpack Compose`, but also ships a limited supported version for `React JS`. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
+
 
 ### GitHub stats
 
