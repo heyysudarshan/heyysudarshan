@@ -81,6 +81,12 @@ These are the technologies I use to build backend services.
     <img alt="Firebase Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-light.svg" />
+    <img alt="Postman Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-dark.svg" />
+</picture>
+
 #### Tools and IDEs
 
 Here are the tools and IDEs I use to build & test software.
