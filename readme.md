@@ -20,7 +20,7 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
-    <img alt="Kotlin Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+    <img alt="Kotlin Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
 </picture>
 
 <picture>
