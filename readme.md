@@ -81,6 +81,18 @@ These are the technologies I use to build backend services.
     <img alt="Firebase" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
 </picture>
 
+#### Tools and IDEs
+
+Here are the tools and IDEs I use to build & test software.
+
+https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-light.svg" />
+    <img alt="Firebase" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg">
+</picture>
+
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
