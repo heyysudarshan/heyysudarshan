@@ -13,6 +13,10 @@ simple, and effective code instead of smart code. Let’s connect if you share t
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
 Here’s the list of technologies I use in my daily developer life.
 
+#### Mobile app development
+
+Here are the technologies I use to build cross-platform and native mobile apps.
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
