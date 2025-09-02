@@ -50,7 +50,13 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-light.svg" />
-    <img alt="Swift UI-ui Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
+    <img alt="Swift UI Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-light.svg" />
+    <img alt="Java Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
 </picture>
 
 <picture>
