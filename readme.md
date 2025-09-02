@@ -59,6 +59,10 @@ Here are the technologies I use to build cross-platform and native mobile apps.
     <img alt="Java Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
 </picture>
 
+#### Backend development
+
+These are the technologies I use to build backend services.
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-light.svg" />
