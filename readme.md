@@ -48,6 +48,12 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 </picture>
 
 <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-light.svg" />
+    <img alt="Swift UI-ui Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
+</picture>
+
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-light.svg" />
     <img alt="Jetpack Compose Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
@@ -58,6 +64,7 @@ Here are the technologies I use to build cross-platform and native mobile apps.
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_light.svg" />
     <img alt="Jetpack Compose Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_dark.svg" />
 </picture>
+
 
 ### Featured projects
 
