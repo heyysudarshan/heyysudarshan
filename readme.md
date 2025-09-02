@@ -38,7 +38,13 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
-    <img alt="Jetpack Compose Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+    <img alt="Compose Multiplatform Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-light.svg" />
+    <img alt="Swift Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-dark.svg" />
 </picture>
 
 <picture>
