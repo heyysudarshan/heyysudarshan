@@ -72,13 +72,13 @@ These are the technologies I use to build backend services.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-light.svg" />
-    <img alt="PostgreSQL" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
+    <img alt="PostgreSQL Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-light.svg" />
-    <img alt="Firebase" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
+    <img alt="Firebase Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
 </picture>
 
 #### Tools and IDEs
@@ -88,7 +88,13 @@ Here are the tools and IDEs I use to build & test software.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-light.svg" />
-    <img alt="Firebase" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg">
+    <img alt="Android Studio Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="hhttps://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-light.svg" />
+    <img alt="Xcode Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg">
 </picture>
 
 ### Featured projects
