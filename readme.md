@@ -75,6 +75,11 @@ These are the technologies I use to build backend services.
     <img alt="PostgreSQL" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-light.svg" />
+    <img alt="Firebase" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
+</picture>
 
 ### Featured projects
 
