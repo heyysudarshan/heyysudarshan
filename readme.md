@@ -1,8 +1,12 @@
 ### Introduction 👋
 
-Hi! I’m Sudarshan, a software developer from India who loves building cross-platform and native mobile apps with Kotlin
-and Kotlin Multiplatform. What began as curiosity about software development has grown into a passion. I enjoy writing,
-testing, debugging, and deploying code that solves real-world problems.
+Hi! I’m Sudarshan, a software developer from India who loves building cross-platform and native mobile apps with
+`Kotlin` and `Kotlin Multiplatform`. What began as curiosity about software development has grown into a passion. I
+enjoy writing, testing, debugging, and deploying code that solves real-world problems.
+
+I’ve dedicated myself to developing software, especially mobile and cross-platform apps, using `Kotlin Multiplatform`
+and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I like to write clean,
+simple, and effective code instead of smart code. Let’s connect if you share the same belief.
 
 ### Technology Tech
 
@@ -47,10 +51,9 @@ Here’s the list of technologies I use in my daily developer life.
 
 ### Featured projects
 
-| Project | Description | Preview |
-|---------|-------------|---------|
+| Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [Julie](https://github.com/heyysudarshan/julie) | A component library and design system developed to make your app look & feel beautiful and consistent across all platforms. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
-
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" />
