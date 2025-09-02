@@ -85,8 +85,6 @@ These are the technologies I use to build backend services.
 
 Here are the tools and IDEs I use to build & test software.
 
-https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-light.svg" />
