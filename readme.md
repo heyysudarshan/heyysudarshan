@@ -96,13 +96,6 @@ Here are the tools and IDEs I use to build & test software.
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [Julie](https://github.com/heyysudarshan/julie) | A component library and design system developed to make your app look & feel beautiful and consistent across all platforms. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql_logo_light.svg" />
-    <img alt="Jetpack Compose Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" />
-</picture>
-
 ### GitHub stats
 
 ![heyysudarshan's Stats](https://github-readme-stats.vercel.app/api?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
