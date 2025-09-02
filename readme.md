@@ -97,6 +97,12 @@ Here are the tools and IDEs I use to build & test software.
     <img alt="Xcode Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="hhhttps://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-light.svg" />
+    <img alt="IntelliJ IDEA Logo" height="80" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-dark.svg">
+</picture>
+
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
