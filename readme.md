@@ -109,6 +109,12 @@ Here are the tools and IDEs I use to build & test software.
     <img alt="WebStorm Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/webstorm-logo-dark.svg">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-light.svg" />
+    <img alt="Figma Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-dark.svg">
+</picture>
+
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
