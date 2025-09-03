@@ -133,6 +133,12 @@ Here are the tools and IDEs I use to build & test software.
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-light.svg" />
     <img alt="VS Code Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-dark.svg">
 </picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-light.svg" />
+    <img alt="Gradle Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-dark.svg">
+</picture>
     
 ### Featured projects
 
