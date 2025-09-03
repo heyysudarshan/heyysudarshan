@@ -17,6 +17,7 @@ Here’s the list of technologies I use in my daily developer life.
 
 Here are the technologies I use to build cross-platform and native mobile apps.
 
+<!--suppress ALL -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
@@ -132,7 +133,7 @@ Here are the tools and IDEs I use to build & test software.
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-light.svg" />
     <img alt="VS Code Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-dark.svg">
 </picture>
-
+    
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
