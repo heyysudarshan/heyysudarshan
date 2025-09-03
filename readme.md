@@ -20,43 +20,43 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
-    <img alt="Kotlin Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+    <img alt="Kotlin Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-light.svg" />
-    <img alt="Kotlin Multiplatform Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
+    <img alt="Kotlin Multiplatform Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-light.svg" />
-    <img alt="Jetpack Compose Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+    <img alt="Jetpack Compose Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
-    <img alt="Compose Multiplatform Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+    <img alt="Compose Multiplatform Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-light.svg" />
-    <img alt="Swift Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-dark.svg" />
+    <img alt="Swift Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-light.svg" />
-    <img alt="Swift UI Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
+    <img alt="Swift UI Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/swift-ui-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-light.svg" />
-    <img alt="Java Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
+    <img alt="Java Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/java-logo-dark.svg" />
 </picture>
 
 #### Backend development
@@ -66,31 +66,31 @@ These are the technologies I use to build backend services.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-light.svg" />
-    <img alt="Ktor Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
+    <img alt="Ktor Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/ktor-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-light.svg" />
-    <img alt="Spring Boot Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-dark.svg" />
+    <img alt="Spring Boot Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-light.svg" />
-    <img alt="PostgreSQL Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
+    <img alt="PostgreSQL Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-light.svg" />
-    <img alt="Firebase Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
+    <img alt="Firebase Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/firebase-logo-dark.svg" />
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-light.svg" />
-    <img alt="Postman Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-dark.svg" />
+    <img alt="Postman Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postman-logo-dark.svg" />
 </picture>
 
 #### Tools and IDEs
@@ -100,37 +100,37 @@ Here are the tools and IDEs I use to build & test software.
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-light.svg" />
-    <img alt="Android Studio Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg">
+    <img alt="Android Studio Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-light.svg" />
-    <img alt="Xcode Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg">
+    <img alt="Xcode Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/xcode-logo-dark.svg">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-light.svg" />
-    <img alt="IntelliJ IDEA Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-dark.svg">
+    <img alt="IntelliJ IDEA Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/intellij-idea-logo-dark.svg">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/webstorm-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/webstorm-logo-light.svg" />
-    <img alt="WebStorm Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/webstorm-logo-dark.svg">
+    <img alt="WebStorm Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/webstorm-logo-dark.svg">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-light.svg" />
-    <img alt="Figma Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-dark.svg">
+    <img alt="Figma Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/figma-logo-dark.svg">
 </picture>
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-light.svg" />
-    <img alt="VS Code Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-dark.svg">
+    <img alt="VS Code Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/vscode-logo-dark.svg">
 </picture>
 
 ### Featured projects
