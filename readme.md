@@ -70,6 +70,12 @@ These are the technologies I use to build backend services.
 </picture>
 
 <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-light.svg" />
+    <img alt="Spring Boot Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/spring-boot-logo-dark.svg" />
+</picture>
+
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-light.svg" />
     <img alt="PostgreSQL Logo" height="100" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/postgresql-logo-dark.svg" />
