@@ -53,13 +53,6 @@ Here’s the list of technologies I use in my daily developer life.
 
 Here are the technologies I use to build cross-platform and native mobile apps.
 
-<!--suppress ALL -->
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
-    <img alt="Kotlin Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
-</picture>
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-multiplatform-logo-light.svg" />
@@ -67,15 +60,21 @@ Here are the technologies I use to build cross-platform and native mobile apps.
 </picture>
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-light.svg" />
-    <img alt="Jetpack Compose Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
-</picture>
-
-<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_light.svg" />
     <img alt="Compose Multiplatform Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/compose-multiplatform-logo_dark.svg" />
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-light.svg" />
+    <img alt="Kotlin Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/kotlin-logo-dark.svg" />
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-light.svg" />
+    <img alt="Jetpack Compose Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/jetpack-compose-logo-dark.svg" />
 </picture>
 
 <picture>
