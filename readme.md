@@ -34,6 +34,10 @@ You can also follow me on other social media platforms to see more of my work an
     <img alt="X Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/x-logo.svg" hspace="20" />
 </a>
 
+<a href="https://www.reddit.com/user/heyysudarshan/" target="_blank" style="margin-right:20px;">
+    <img alt="Reddit Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/reddit-logo.svg" />
+</a>
+
 ### Technology Tech
 
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
