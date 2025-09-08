@@ -21,7 +21,7 @@ You can also follow me on other social media platforms to see more of my work an
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-light.svg" />
-        <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
+        <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" hspace="20" />
     </picture>
 </a>
 
