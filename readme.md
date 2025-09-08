@@ -176,6 +176,12 @@ Here are the tools and IDEs I use to build and test software.
     <img alt="Gradle Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-dark.svg">
 </picture>
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/git-logo-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/git-logo-light.svg" />
+    <img alt="Git Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/git-logo-dark.svg">
+</picture>
+
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
