@@ -1,4 +1,5 @@
 <!--suppress ALL -->
+
 ### Introduction 👋
 
 Hi! I’m Sudarshan, a software developer from India who fell in love with Kotlin and enjoys building cross-platform and
@@ -14,8 +15,6 @@ simple, and effective code instead of smartly complex code. Let’s connect if y
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-light.svg" />
     <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
 </picture>
-
-
 
 ### Contact me
 
