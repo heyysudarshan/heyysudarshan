@@ -2,7 +2,7 @@
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-light.svg" />
-    <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
+    <img alt="Banner" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
 </picture><br><br>
 
 ### Introduction 👋
