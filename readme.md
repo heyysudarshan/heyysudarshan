@@ -8,6 +8,12 @@ I’ve dedicated myself to developing software, especially mobile and cross-plat
 and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I enjoy writing clean,
 simple, and effective code instead of smartly complex code. Let’s connect if you share the same belief.
 
+### Contact me
+
+If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
+conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com). You can also
+follow me on other social media platforms to see more of my work and thoughts on software development.
+
 ### Technology Tech
 
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
@@ -187,8 +193,3 @@ co-developers. If you share the same preferences, then we’re even. Let’s wor
 **5) Whose music do you enjoy the most?**
 
 - Fly By Midnight, haha.
-
-### Contact me
-
-If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
-conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com).
