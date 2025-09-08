@@ -11,8 +11,11 @@ simple, and effective code instead of smartly complex code. Let’s connect if y
 ### Contact me
 
 If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
-conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com). You can also
-follow me on other social media platforms to see more of my work and thoughts on software development.
+conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sudarshanmhasrup@gmail.com).
+
+### Social media
+
+You can also follow me on other social media platforms to see more of my work and thoughts on software development.
 
 ### Technology Tech
 
