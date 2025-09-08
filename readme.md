@@ -1,12 +1,11 @@
 <!--suppress ALL -->
-
-### Introduction 👋
-
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-light.svg" />
     <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
-</picture><br><br><br><br><br>
+</picture><br><br>
+
+### Introduction 👋
 
 Hi! I’m Sudarshan, a software developer from India who fell in love with Kotlin and enjoys building cross-platform and
 native mobile apps with `Kotlin` and `Kotlin Multiplatform`. What began as curiosity about software development has
