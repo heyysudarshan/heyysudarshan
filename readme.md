@@ -18,11 +18,11 @@ conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sud
 You can also follow me on other social media platforms to see more of my work and thoughts on software development.
 
 <!--suppress ALL -->
-<a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank">
+<a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank" style="text-decoration:none;">
     <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo.svg" />
 </a>
 
-<a href="https://www.instagram.com/sudarshanmhasrup/" target="_blank" style="margin-right:20px;">
+<a href="https://www.instagram.com/sudarshanmhasrup/" target="_blank" style="text-decoration:none;">
     <img alt="Instagram Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/instagram-logo.svg" hspace="20" />
 </a>
 
