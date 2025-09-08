@@ -182,23 +182,6 @@ Here are the tools and IDEs I use to build and test software.
     <img alt="Git Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/git-logo-dark.svg">
 </picture>
 
-### Featured projects
-
-| Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| [Julie](https://github.com/heyysudarshan/julie) | A component library and design system developed to make your app look & feel beautiful and consistent across all platforms. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
-
-### Active learning
-
-I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
-the most effective way to learn any new technology. I've created and dedicated special repositories that I use to
-maintain the source code and projects that I created while learning that technology. Here is the list of all
-repositories I created while learning specific technology.
-
-- [Exploring the world of Kotlin](https://github.com/heyysudarshan/exploring-the-world-of-kotlin): I'm absolutely in
-  love with Kotlin: I think about it all the time, even in my sleep! This repository showcases everything I built on my
-  journey through Kotlin.
-
 ### QnA
 
 Do you want to know more about me? Don't worry: here are some questions and my answers, so you can see if we vibe as
