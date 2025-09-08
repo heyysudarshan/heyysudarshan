@@ -8,10 +8,11 @@ I’ve dedicated myself to developing software, especially mobile and cross-plat
 and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I enjoy writing clean,
 simple, and effective code instead of smartly complex code. Let’s connect if you share the same belief.
 
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-light.svg" />
-    <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
+    <img alt="Kotlin Logo" height="500" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
 </picture>
 
 ### Contact me
