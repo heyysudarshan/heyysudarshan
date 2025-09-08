@@ -183,12 +183,6 @@ Here are the tools and IDEs I use to build and test software.
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [Julie](https://github.com/heyysudarshan/julie) | A component library and design system developed to make your app look & feel beautiful and consistent across all platforms. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
 
-### GitHub stats
-
-![heyysudarshan's Stats](https://github-readme-stats.vercel.app/api?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![heyysudarshan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=heyysudarshan&theme=tokyonight&hide_border=true)
-![heyysudarshan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 ### Active learning
 
 I prefer building projects while learning a specific technology. This way has always worked for me and turned out to be
