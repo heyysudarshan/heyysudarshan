@@ -17,6 +17,7 @@ conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sud
 
 You can also follow me on other social media platforms to see more of my work and thoughts on software development.
 
+<!--suppress ALL -->
 <a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
@@ -121,7 +122,7 @@ These are the technologies I use to build backend services.
 
 #### Tools and IDEs
 
-Here are the tools and IDEs I use to build & test software.
+Here are the tools and IDEs I use to build and test software.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/android-studio-logo-dark.svg" />
