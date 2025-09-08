@@ -1,12 +1,12 @@
 ### Introduction 👋
 
-Hi! I’m Sudarshan, a software developer from India who loves building cross-platform and native mobile apps with
-`Kotlin` and `Kotlin Multiplatform`. What began as curiosity about software development has grown into a passion. I
-enjoy writing, testing, debugging, and deploying code that solves real-world problems.
+Hi! I’m Sudarshan, a software developer from India who fell in love with Kotlin and enjoys building cross-platform and
+native mobile apps with `Kotlin` and `Kotlin Multiplatform`. What began as curiosity about software development has
+grown into a passion. I love writing, testing, debugging, and deploying code that solves real-world problems.
 
 I’ve dedicated myself to developing software, especially mobile and cross-platform apps, using `Kotlin Multiplatform`
-and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I like to write clean,
-simple, and effective code instead of smart code. Let’s connect if you share the same belief.
+and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I enjoy writing clean,
+simple, and effective code instead of smartly complex code. Let’s connect if you share the same belief.
 
 ### Technology Tech
 
@@ -139,12 +139,13 @@ Here are the tools and IDEs I use to build & test software.
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-light.svg" />
     <img alt="Gradle Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/gradle-logo-dark.svg">
 </picture>
-    
+
 ### Featured projects
 
 | Project                                         | Description                                                                                                                 | Preview                                                                                                                  |
 |-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | [Julie](https://github.com/heyysudarshan/julie) | A component library and design system developed to make your app look & feel beautiful and consistent across all platforms. | <img src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/julie-repo-preview-dark.svg" height="200px" /> |
+
 ### GitHub stats
 
 ![heyysudarshan's Stats](https://github-readme-stats.vercel.app/api?username=heyysudarshan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
