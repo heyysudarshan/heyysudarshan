@@ -17,6 +17,14 @@ conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sud
 
 You can also follow me on other social media platforms to see more of my work and thoughts on software development.
 
+<a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-light.svg" />
+        <img alt="LinkedIn Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
+    </picture>
+</a>
+
 ### Technology Tech
 
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
