@@ -30,6 +30,10 @@ You can also follow me on other social media platforms to see more of my work an
     <img alt="Instagram Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/instagram-logo.svg" hspace="20" />
 </a>
 
+<a href="https://www.threads.com/@sudarshanmhasrup" target="_blank" style="margin-right:20px;">
+    <img alt="Threads Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/threads-logo.svg" hspace="20" />
+</a>
+
 ### Technology Tech
 
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
