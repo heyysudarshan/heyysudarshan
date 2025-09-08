@@ -31,7 +31,7 @@ You can also follow me on other social media platforms to see more of my work an
 </a>
 
 <a href="https://www.threads.com/@sudarshanmhasrup" target="_blank" style="margin-right:20px;">
-    <img alt="Threads Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/threads-logo.svg" hspace="20" />
+    <img alt="Threads Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/threads-logo.svg" />
 </a>
 
 ### Technology Tech
