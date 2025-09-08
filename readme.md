@@ -15,6 +15,7 @@ simple, and effective code instead of smartly complex code. Let’s connect if y
     <img alt="Kotlin Logo" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
 </picture>
 
+
 ### Contact me
 
 If you find my work interesting, want to leave feedback, work with me, collaborate on a project, or just have a
