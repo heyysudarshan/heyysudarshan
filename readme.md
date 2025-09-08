@@ -34,6 +34,10 @@ You can also follow me on other social media platforms to see more of my work an
     <img alt="Threads Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/threads-logo.svg" />
 </a>
 
+<a href="https://x.com/heyysudarshan" target="_blank" style="margin-right:20px;">
+    <img alt="X Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/x-logo.svg" />
+</a>
+
 ### Technology Tech
 
 Do you want to know the technology stack I use for writing and developing software? Don’t worry, I’ve got you covered.
