@@ -1,3 +1,4 @@
+<!--suppress ALL -->
 ### Introduction 👋
 
 Hi! I’m Sudarshan, a software developer from India who fell in love with Kotlin and enjoys building cross-platform and
@@ -7,7 +8,6 @@ grown into a passion. I love writing, testing, debugging, and deploying code tha
 I’ve dedicated myself to developing software, especially mobile and cross-platform apps, using `Kotlin Multiplatform`
 and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I enjoy writing clean,
 simple, and effective code instead of smartly complex code. Let’s connect if you share the same belief.
-
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/banner-dark.svg" />
@@ -22,9 +22,8 @@ conversation, feel free to email me at [sudarshanmhasrup@gmail.com](mailto://sud
 
 ### Social media
 
-You can also follow me on other social media platforms to see more of my work and thoughts on software development.
+You can also follow me on other social media platforms to see more of my work.
 
-<!--suppress ALL -->
 <a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank" style="text-decoration:none;">
     <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo.svg" />
 </a>
