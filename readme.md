@@ -27,11 +27,7 @@ You can also follow me on other social media platforms to see more of my work an
 </a>
 
 <a href="https://www.instagram.com/sudarshanmhasrup/" target="_blank" style="margin-right:20px;">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/instagram-logo.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linstagram-logo.svg" />
-        <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/instagram-logo.svg" hspace="20" />
-    </picture>
+    <img alt="Instagram Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/instagram-logo.svg" hspace="20" />
 </a>
 
 ### Technology Tech
