@@ -19,7 +19,7 @@ You can also follow me on other social media platforms to see more of my work an
 
 <!--suppress ALL -->
 <a href="https://www.linkedin.com/in/sudarshanmhasrup" target="_blank">
-    <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo-dark.svg" />
+    <img alt="LinkedIn Logo" height="40" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/linkedin-logo.svg" />
 </a>
 
 <a href="https://www.instagram.com/sudarshanmhasrup/" target="_blank" style="margin-right:20px;">
