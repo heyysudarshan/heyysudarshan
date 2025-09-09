@@ -11,10 +11,9 @@ Hi! I’m Sudarshan, a software developer from India who fell in love with Kotli
 native software solutions with `Kotlin` and `Kotlin Multiplatform`. What began as curiosity about software development
 has grown into a passion. I love writing, testing, debugging, and deploying code that solves real-world problems.
 
-I’ve dedicated myself to developing software, especially native and cross-platform software solutions, using
-`Kotlin Multiplatform` and `Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I
-enjoy writing clean, simple, and effective code instead of smartly complex code. Let’s connect if you share the same
-belief.
+I’ve dedicated myself to developing native and cross-platform software solutions, using `Kotlin Multiplatform` and
+`Compose Multiplatform` to focus on Android, iOS, desktop, and web from a single codebase. I enjoy writing clean,
+simple, and effective code instead of smartly complex code. Let’s connect if you share the same belief.
 
 ### Contact me
 
