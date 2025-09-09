@@ -181,6 +181,17 @@ Here are the tools and IDEs I use to build and test software.
     <img alt="Git Logo" height="88" src="https://github.com/heyysudarshan/heyysudarshan/blob/main/assets/git-logo-dark.svg">
 </picture>
 
+### Learn and fun
+
+The best way to learn any technology is by experimenting with it. Whenever I start learning new technology, I create a
+dedicated repository for it, so I can experiment with it, like exploring the syntax of programming languages, features,
+libraries, frameworks built around that technology, etc. Here’s the list of all the repositories I’ve created while
+learning new technologies:
+
+- [Exploring the world of Kotlin](https://github.com/heyysudarshan/exploring-the-world-of-kotlin): I created this
+  repository to experiment with the Kotlin programming language and explore its ecosystem. It contains all the code I’ve
+  written while learning, exploring, and experimenting with Kotlin.
+
 ### QnA
 
 Do you want to know more about me? Don't worry: here are some questions and my answers, so you can see if we vibe as
